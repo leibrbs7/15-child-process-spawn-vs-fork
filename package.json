@@ -1,0 +1,27 @@
+{
+    "name": "15-child-process-spawn-vs-fork",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leibrbs7/15-child-process-spawn-vs-fork.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/leibrbs7/15-child-process-spawn-vs-fork/issues"
+    },
+    "homepage": "https://github.com/leibrbs7/15-child-process-spawn-vs-fork#readme",
+    "type": "module",
+    "devDependencies": {
+        "eslint": "^8.29.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.26.0"
+    }
+}
